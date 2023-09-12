@@ -1,0 +1,44 @@
+h1{
+  color: #FFFFFF;
+  font-family: 'Poppins', sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+}
+
+h3{
+  color: #7456FF;
+  font-family: 'Poppins', sans-serif;
+  font-size: 52px;
+  font-weight: 500;
+
+}
+
+.container{
+  margin-top: 100px;
+
+  hr{
+    border: 1px solid #FFFFFF;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .btn:hover{
+    border: 1.5px solid #7456FF;
+    color: #7456FF;
+    background: none;
+  }
+
+
+  .btn{
+
+    color:  #FFFFFF;
+    background-color: #7456FF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    border-radius: 4px;
+    font-weight: semi-bold;
+    border: 1.5px solid #7456FF;
+  }
+
+
+}
