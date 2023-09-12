@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'MyBriefcase'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D52455E8E2D94A908C6C7F03F3A0BB4E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C49AD012B2FF433E826B97ADD2C0DD07 }}
           package: .
