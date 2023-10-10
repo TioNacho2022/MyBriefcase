@@ -8,6 +8,11 @@ import { MainComponent } from './app/component/main/main.component';
 import { InformationComponent } from './app/component/information/information.component';
 import { FinmeComponent } from './app/component/finme/finme.component';
 
+import { createCustomElement } from '@angular/elements';
+
+// Resto de tu código
+
+
 if (environment.production) {
   enableProdMode();
 }
