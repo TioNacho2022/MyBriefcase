@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b1ba1952-d511-49be-98ed-ac2805d81e5b/resourceGroups/AppsWeb/providers/Microsoft.Web/sites/MyBriefcase",
+    "appService.deploySubpath": "dist\\briefcase"
+}
