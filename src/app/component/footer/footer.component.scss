@@ -1,0 +1,50 @@
+.header{
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+
+   
+        
+}
+
+
+
+.list-group-item{
+    background: none;
+    border: none;
+
+    button{
+        margin-right: 10px;
+        background-color: transparent;
+        border-radius: 50%;
+        height: 50px;
+        width: 50px;
+        border: 2px solid #FFFFFF;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+
+        svg{
+            color: #FFFFFF;
+        }
+        
+        
+      
+    }
+
+    .titulo{
+        color: #999999;
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: 200;
+    
+    }
+
+    .sub-titulo{
+        color: #FFFFFF;
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: 200;
+    }
+}
