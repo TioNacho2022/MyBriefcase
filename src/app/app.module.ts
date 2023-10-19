@@ -6,6 +6,7 @@ import { HomepageComponent } from './pages/homepage/homepage.component';
 import { MainComponent } from './component/main/main.component';
 import { InformationComponent } from './component/information/information.component';
 import { FinmeComponent } from './component/finme/finme.component';
+import { FooterComponent } from './component/footer/footer/footer.component';
 
 
 
@@ -15,7 +16,8 @@ import { FinmeComponent } from './component/finme/finme.component';
     HomepageComponent,
     MainComponent,
     InformationComponent,
-    FinmeComponent
+    FinmeComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

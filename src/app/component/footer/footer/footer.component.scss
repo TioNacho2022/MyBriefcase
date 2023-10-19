@@ -1,0 +1,60 @@
+.footer{
+    background-color: #171717;
+    height: 496px;
+
+    button{
+        background-color: transparent;
+        border-radius: 50%;
+        border: 2px solid #FFFFFF;
+        height: 50px;
+        width: 50px;
+        
+      
+    }
+
+    label{
+        color: #FFFFFF;
+        font-family: 'Poppins', sans-serif;
+        font-size: 36px;
+        font-weight: 500;
+    }
+
+    svg{
+
+        height: 24px;
+        width: 24px;
+        color:  #ffffff ;
+      
+    }
+
+    .footer-header{
+        padding-top: 100px;
+
+    }
+
+    .titulo{
+        color:#999999;
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: 200;
+        
+    }
+
+    .sub-titulo{
+        color:#ffffff;
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: 200;
+    }
+
+   
+
+    .list-group-item{
+        background: none;
+        border: none;
+    }
+
+    .text-footer{
+        margin-left: 20px;
+    }
+}
